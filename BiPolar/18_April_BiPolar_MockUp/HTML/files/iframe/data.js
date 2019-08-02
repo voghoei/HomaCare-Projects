@@ -1,0 +1,7 @@
+﻿$axure.loadCurrentPage(
+(function() {
+    var _ = function() { var r={},a=arguments; for(var i=0; i<a.length; i+=2) r[a[i]]=a[i+1]; return r; }
+    var _creator = function() { return _(b,c,d,e,f,g,h,[i],j,_(k,l,m,n,o,p,q,_(),r,_(s,t,u,v,w,_(x,y,z,A),B,null,C,v,D,v,E,F,G,null,H,I,J,K,L,M,N,I),O,_(),P,_(),Q,_(R,[_(S,T,U,V,m,W,X,W,Y,Z,r,_(ba,_(bb,bc,bd,bc),be,_(bf,bg,bh,bg)),O,_(),bi,_(bj,bk,bl,_(bm,bn,bo,V,bp,[]),bq,g))])),br,_(),bs,_(bt,_(bu,bv)));}; 
+var b="url",c="iframe.html",d="generationDate",e=new Date(1461111691436.99),f="isCanvasEnabled",g=false,h="variables",i="OnLoadVariable",j="page",k="packageId",l="2b582c8a0e6d4d5b9f3a31319bf9db53",m="type",n="Axure:Page",o="name",p="IFrame",q="notes",r="style",s="baseStyle",t="627587b6038d43cca051c114ac41ad32",u="pageAlignment",v="near",w="fill",x="fillType",y="solid",z="color",A=0xFFFFFFFF,B="image",C="imageHorizontalAlignment",D="imageVerticalAlignment",E="imageRepeat",F="auto",G="favicon",H="sketchFactor",I="0",J="colorStyle",K="appliedColor",L="fontName",M="Applied Font",N="borderWidth",O="adaptiveStyles",P="interactionMap",Q="diagram",R="objects",S="id",T="1259c0e6d6d947098aeb0db8f7016a98",U="label",V="",W="inlineFrame",X="styleType",Y="visible",Z=true,ba="location",bb="x",bc=20,bd="y",be="size",bf="width",bg=100,bh="height",bi="target",bj="targetType",bk="webUrl",bl="urlLiteral",bm="exprType",bn="stringLiteral",bo="value",bp="stos",bq="includeVariables",br="masters",bs="objectPaths",bt="1259c0e6d6d947098aeb0db8f7016a98",bu="scriptId",bv="u0";
+return _creator();
+})());
